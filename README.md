@@ -1,4 +1,14 @@
 ## Hi there 👋
+I'm Heesu, a full-stack developer with experience in Java Spring, React, and Oracle JDBC for database interaction. 
+
+I began my journey in development in 2024, and since then, 
+I've found learning web technologies to be both fascinating and rewarding—it broadens my perspective and keeps me engaged.
+
+I love tackling challenges and exploring new technologies, which makes every project an exciting opportunity to grow. 
+Seeing my own progress and development through the projects I work on is one of the most fulfilling aspects of being a developer.
+
+
+
 
 <!--
 **Heesuya/Heesuya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
